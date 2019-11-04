@@ -17,6 +17,18 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 300px;
+    width: 250px;
     margin-left: 130px;
+}
+
+
+.btn-container .zero {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 30%;
+    background-color: #184379;
+    color: #fff;
+    box-shadow: 0 10px 6px -6px black;
 }
