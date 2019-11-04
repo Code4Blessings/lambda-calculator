@@ -1,18 +1,16 @@
-.number-btn {
+.operator-btn {
     width: 50px;
     height: 50px;
     font-size: 20px;
     margin: 10px;
     border: 1px solid #333;
     border-radius: 50%;
-    background-color: #184379;
+    background-color: #2A7293;
     color: #fff;
     box-shadow: 0 10px 6px -6px black;
 }
 
-
-.btn-container {
+.operator-container {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
 }
