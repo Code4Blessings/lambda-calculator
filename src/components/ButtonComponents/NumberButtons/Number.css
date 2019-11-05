@@ -12,8 +12,8 @@
 
 
 .btn-container {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    width: 250px;
+    display: grid;
+    grid-template-columns: 30% 30% 40%;
 }
+    
+
