@@ -1,0 +1,19 @@
+.number-btn {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin: 10px;
+    border: 1px solid #333;
+    border-radius: 50%;
+    background-color: #184379;
+    color: #fff;
+    box-shadow: 0 10px 6px -6px black;
+}
+
+
+.btn-container {
+    display: grid;
+    grid-template-columns: 30% 30% 40%;
+}
+    
+

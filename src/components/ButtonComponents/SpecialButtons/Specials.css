@@ -1,0 +1,18 @@
+.special-btn {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin: 10px;
+    border: 1px solid #333;
+    border-radius: 50%;
+    background-color: #225D9E;
+    color: #fff;
+    box-shadow: 0 10px 6px -6px black;
+}
+
+
+.specials-container {
+    display: flex;
+    flex-direction: column;
+    
+}
